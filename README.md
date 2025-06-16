@@ -29,24 +29,29 @@ EventVista is a Python (Tkinter)-based GUI application designed to simplify work
 - MySQL Server installed and running
 - Python package: `mysql-connector-python`
 
-# 🔧 Installation & Setup
+## 🔧 Installation & Usage
 
-**1. Clone the repository**
+```bash
+# 1. Clone the repository
 git clone https://github.com/VAISHNEVISATHEES/eventvista.git
-**2. Navigate to the project directory**
-cd eventvista
-**3. Install required dependencies**
+
+# 2. Navigate to the project directory
+cd eworkshop-planner
+
+# 3. Install required dependencies
 pip install mysql-connector-python
-**4. Set up MySQL database**
-- Create a database 
-- Update database credentials in your Python file (e.g., db_config.py)
-**5. Run the application**
+
+# 4. Set up MySQL database
+#    - Create a database
+#    - Update database credentials in your Python file (e.g., db_config.py)
+
+# 5. Run the application
 python main.py
 
-# 🙋‍♀️ Author
+## 🙋‍♀️ Author
 
-**Vaishnevi Satheeskumar**
+**🧑‍💻 Vaishnevi Satheeskumar**
 
-📍 Coimbatore, Tamil Nadu
+📍 Coimbatore, Tamil Nadu  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/vaishnevi-satheeskumar-4a4576227)
 
-🔗[LinkedIn Profile](https://www.linkedin.com/in/vaishnevi-satheeskumar-4a4576227)
