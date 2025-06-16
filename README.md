@@ -47,11 +47,10 @@ pip install mysql-connector-python
 
 # 5. Run the application
 python main.py
+```
 
 ## 🙋‍♀️ Author
 
-**🧑‍💻 Vaishnevi Satheeskumar**
-
+**👩‍💻 Vaishnevi Satheeskumar**  
 📍 Coimbatore, Tamil Nadu  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vaishnevi-satheeskumar-4a4576227)
-
