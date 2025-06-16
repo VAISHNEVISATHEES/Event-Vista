@@ -31,16 +31,16 @@ EventVista is a Python (Tkinter)-based GUI application designed to simplify work
 
 # 🔧 Installation & Setup
 
-# 1. Clone the repository
+**1. Clone the repository**
 git clone https://github.com/VAISHNEVISATHEES/eventvista.git
-# 2. Navigate to the project directory
+**2. Navigate to the project directory**
 cd eventvista
-# 3. Install required dependencies
+**3. Install required dependencies**
 pip install mysql-connector-python
-# 4. Set up MySQL database
+**4. Set up MySQL database**
 - Create a database 
 - Update database credentials in your Python file (e.g., db_config.py)
-# 5. Run the application
+**5. Run the application**
 python main.py
 
 # 🙋‍♀️ Author
